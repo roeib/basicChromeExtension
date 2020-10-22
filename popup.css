@@ -1,0 +1,26 @@
+body{
+    padding: 30px;
+}
+  div{
+    text-align: center;
+    cursor: pointer;
+    font-size:24px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    color:#fff
+  }
+  
+#angular {
+    background: red;   
+}
+
+#vue {
+    background: green;   
+}
+#react {
+    background: blue;   
+}
+div:hover{
+    box-shadow:0px 2px 10px 5px #97B1BF;
+ }
